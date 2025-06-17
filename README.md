@@ -69,20 +69,20 @@ Runs the React frontend at: `http://localhost:3000`
 
 ## 📸 UI & Backend Screenshots
 
-### 🖼️ Homepage  
-![Homepage](screenshots/Home%20Page.png)
+### 🏠 Home Page  
+![Home Page](Screenshots/Home%20Page.png)
 
-### 📋 Age Filter and Table Results  
-![Age Filter](screenshots/age%20filter%20and%20table%20results.png)
+### 📋 age filter and table results  
+![age filter and table results](Screenshots/age%20filter%20and%20table%20results.png)
 
-### 📊 Pie Chart  
-![Pie Chart](screenshots/pie%20chart.png)
+### 📊 pie chart  
+![pie chart](Screenshots/pie%20chart.png)
 
-### 🖥️ Backend – Server Started  
-![Backend Started](screenshots/backend-started.png)
+### ⚙️ backend-started  
+![backend-started](Screenshots/backend-started.png)
 
-### 🔍 Backend – Query Result Logged  
-![Backend Query](screenshots/backend-query-result.png)
+### 🔎 backend-query-result  
+![backend-query-result](Screenshots/backend-query-result.png)
 
 ## 💡 Example Queries
 
