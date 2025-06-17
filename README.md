@@ -72,6 +72,9 @@ Runs the React frontend at: `http://localhost:3000`
 ### 🏠 Home Page  
 ![Home Page](Screenshots/Home%20Page.png)
 
+### Query suggestions
+![Query Suggestions](Screenshots/query%20suggestions.png)
+
 ### 📋 age filter and table results  
 ![age filter and table results](Screenshots/age%20filter%20and%20table%20results.png)
 
