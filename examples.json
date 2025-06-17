@@ -1,0 +1,37 @@
+[
+  {
+    "input": "Show me all diabetic patients over 50",
+    "fhir_simulation": {
+      "Patient": { "age": ">=50" },
+      "Condition": { "code": "diabetes" }
+    }
+  },
+  {
+    "input": "List asthma patients over 60",
+    "fhir_simulation": {
+      "Patient": { "age": ">=60" },
+      "Condition": { "code": "asthma" }
+    }
+  },
+  {
+    "input": "Give me hypertension patients older than 45",
+    "fhir_simulation": {
+      "Patient": { "age": ">=45" },
+      "Condition": { "code": "hypertension" }
+    }
+  },
+  {
+    "input": "Patients with cancer above age 70",
+    "fhir_simulation": {
+      "Patient": { "age": ">=70" },
+      "Condition": { "code": "cancer" }
+    }
+  },
+  {
+    "input": "Get flu patients over 30",
+    "fhir_simulation": {
+      "Patient": { "age": ">=30" },
+      "Condition": { "code": "flu" }
+    }
+  }
+]
