@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 # 🧠 AI on FHIR – Full Stack App (NLP + FHIR Dashboard)
 
 This project is a full-stack application that lets users enter **natural language queries** (like “Show me diabetic patients over 60”), and see structured **FHIR-style data** and patient statistics visualized in a professional UI.
