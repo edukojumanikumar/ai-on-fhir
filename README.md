@@ -105,5 +105,4 @@ Runs the React frontend at: `http://localhost:3000`
 
 ---
 
-© 2025 Mani Kumar Edukoju – Demo Project for AI on FHIR Interview Task
->>>>>>> 58d1208331a09ad060ac59799ca118562b163745
+© 2025 Mani Kumar Edukoju – Demo Project for AI on FHIR
